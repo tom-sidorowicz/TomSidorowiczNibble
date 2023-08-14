@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tom-sidorowicz.
-- 👀 I’m interested in Pyttom-sidorowiczhon, data science, machine learning, back-end development.
+- 👀 I’m interested in Python, data science, machine learning, back-end development.
 - 🌱 I’m currently learning full-stack development.
 - 💞️ I’m looking to collaborate on AI applications .
 
